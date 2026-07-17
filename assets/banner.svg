@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Shadman Taqi, founder of Phoenix Education and Automata One, Dhaka, Bangladesh">
+  <!-- flame glyph: Material Symbols "whatshot" (Apache-2.0) -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1420"/>
+      <stop offset="1" stop-color="#141C29"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9C82E2" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#9C82E2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E8A33D" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#E8A33D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD166"/>
+      <stop offset="0.45" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#E4715C"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9C82E2"/>
+      <stop offset="1" stop-color="#E8A33D"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <!-- panel -->
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <ellipse cx="1080" cy="30" rx="360" ry="220" fill="url(#violetGlow)"/>
+  <ellipse cx="140" cy="290" rx="420" ry="200" fill="url(#amberGlow)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="15.5" fill="none" stroke="#2E3D4B" stroke-width="1.5"/>
+
+  <!-- flame -->
+  <g transform="translate(892,42) scale(9)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-1.6 12 22; 1.6 12 22; -1.6 12 22" dur="5s" repeatCount="indefinite"/>
+      <path fill="#F59E0B" opacity="0.5" filter="url(#soft)" fill-rule="evenodd" d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"/>
+      <path fill="url(#flame)" fill-rule="evenodd" d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"/>
+    </g>
+  </g>
+
+  <!-- embers -->
+  <circle r="4" fill="#F59E0B" opacity="0">
+    <animate attributeName="cx" values="962;974;958;968" dur="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="224;64" dur="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.3;1" dur="4.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#E4715C" opacity="0">
+    <animate attributeName="cx" values="1032;1022;1040;1028" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="218;58" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" keyTimes="0;0.3;1" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#FFD166" opacity="0">
+    <animate attributeName="cx" values="998;1008;992;1002" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="230;76" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.3;1" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- copy -->
+  <text x="52" y="92" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" letter-spacing="5" fill="#94A5B4">FOUNDER · ENGINEER · AUTHOR</text>
+  <text x="48" y="158" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="1" fill="#FFFFFF">SHADMAN TAQI</text>
+  <text x="50" y="200" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700">
+    <tspan fill="#E8A33D">Phoenix Education</tspan>
+    <tspan fill="#E4715C" dx="6">×</tspan>
+    <tspan fill="#B39DEC" dx="6">Automata One</tspan>
+  </text>
+  <text x="50" y="234" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#94A5B4">ed-tech that ships · AI that listens · books that rank · built in Dhaka, Bangladesh</text>
+  <rect x="50" y="256" width="560" height="3" rx="1.5" fill="url(#rule)"/>
+</svg>
