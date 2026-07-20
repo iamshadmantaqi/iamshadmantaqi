@@ -1,0 +1,8 @@
+# graphify — generated knowledge graph output.
+# Tracked: graph.json (queryable graph) + GRAPH_REPORT.md.
+# Ignored: cache/, graph.html, manifest.json, cost.json — all rebuildable.
+# NB: must be `graphify-out/*`, not `graphify-out/` — git will not descend
+# into an excluded directory, so the negations below would never apply.
+graphify-out/*
+!graphify-out/graph.json
+!graphify-out/GRAPH_REPORT.md
