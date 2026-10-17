@@ -83,7 +83,7 @@
 <text x="812" y="300" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$264</text>
 <rect x="440" y="306" width="372" height="3" rx="1.5" fill="#26323F"/>
 <rect x="440" y="306" width="2.0" height="3" rx="1.5" fill="#9C82E2"/>
-<text x="440" y="328" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">default</text>
+<text x="440" y="328" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">cursor-auto</text>
 <text x="722" y="328" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">190M</text>
 <text x="812" y="328" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$165</text>
 <rect x="440" y="334" width="372" height="3" rx="1.5" fill="#26323F"/>
