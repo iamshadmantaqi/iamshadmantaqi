@@ -99,5 +99,5 @@ I'm Shadman, a founder from Dhaka. Phoenix Education started in November 2021 as
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamshadmantaqi&style=for-the-badge&color=E4715C&label=PROFILE+VISITS" alt="Profile visits"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=iamshadmantaqi&label=PROFILE%20VISITS&labelColor=%23131A21&countColor=%23E4715C&style=for-the-badge" alt="Profile visits"/>
 </p>
