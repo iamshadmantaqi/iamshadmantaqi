@@ -74,7 +74,7 @@ I'm Shadman, a founder from Dhaka. Phoenix Education started in November 2021 as
   </picture>
 </p>
 
-<p align="center"><sub>Refreshed daily from my local usage data. Costs are API-equivalent list prices, not what I paid. <a href="https://github.com/iamshadmantaqi/ai-usage-card">How it works →</a></sub></p>
+<p align="center"><sub>Updated from my local usage data; the card shows its own date. Costs are API-equivalent list prices, not what I paid. <a href="https://github.com/iamshadmantaqi/ai-usage-card">How it works →</a></sub></p>
 
 ## ✍️ Beyond the terminal
 
