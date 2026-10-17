@@ -65,6 +65,19 @@ I'm Shadman, a founder from Dhaka. Phoenix Education started in November 2021 as
 
 <p align="center"><sub>The whole company runs on self-hosted infrastructure, because I like owning the stack down to the metal. As for the AI layer: Gemini, DeepSeek and Claude all earn their keep.</sub></p>
 
+## 📊 AI usage
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-dark.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-dark.svg">
+    <img src="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-light.svg" width="100%" alt="AI usage over the last 30 days"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Updated from my local usage data; the card shows its own date. Costs are API-equivalent list prices, not what I paid. <a href="https://github.com/iamshadmantaqi/ai-usage-card">How it works →</a></sub></p>
+
 ## ✍️ Beyond the terminal
 
 - 📖 Author of the Phoenix admission series: 8 titles, from the flagship <em>Private University Admission Preparation Guide</em> to the per-university model question books
