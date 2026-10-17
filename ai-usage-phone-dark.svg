@@ -1,54 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 698" width="400" height="698" role="img" aria-label="AI usage over the last 30 days: 49.3B tokens, $19,065 API-equivalent">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 698" width="400" height="698" role="img" aria-label="AI usage over the last 30 days: 49.7B tokens, $21,609 API-equivalent">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1420"/><stop offset="1" stop-color="#141C29"/></linearGradient></defs>
 <rect width="400" height="698" rx="16" fill="url(#bg)"/>
 <rect x="0.75" y="0.75" width="398.5" height="696.5" rx="15.5" fill="none" stroke="#2E3D4B" stroke-width="1.5"/>
 <text x="20" y="38" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">AI USAGE · LAST 30 DAYS</text>
 <text x="20" y="60" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">updated 18 Oct 2026</text>
-<text x="20" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF" text-anchor="start">49.3B</text>
+<text x="20" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF" text-anchor="start">49.7B</text>
 <text x="20" y="134" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">tokens</text>
-<text x="200" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFD166" text-anchor="start">$19,065</text>
+<text x="200" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFD166" text-anchor="start">$21,609</text>
 <text x="200" y="134" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">API-equivalent</text>
 <line x1="20" y1="150" x2="380" y2="150" stroke="#2E3D4B" stroke-width="1"/>
 <text x="20" y="178" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">TOKENS PER DAY</text>
 <text x="380" y="178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="end">peak 3.9B</text>
-<rect x="21.44" y="255.55" width="9.12" height="4.45" rx="2" fill="#F59E0B"><title>19 Sep: 262M, $297</title></rect>
-<rect x="33.44" y="252.21" width="9.12" height="7.79" rx="2" fill="#F59E0B"><title>20 Sep: 458M, $515</title></rect>
-<rect x="45.44" y="256.35" width="9.12" height="3.65" rx="2" fill="#F59E0B"><title>21 Sep: 215M, $207</title></rect>
-<rect x="57.44" y="253.64" width="9.12" height="6.36" rx="2" fill="#F59E0B"><title>22 Sep: 374M, $425</title></rect>
+<rect x="21.44" y="255.56" width="9.12" height="4.44" rx="2" fill="#F59E0B"><title>19 Sep: 262M, $297</title></rect>
+<rect x="33.44" y="252.22" width="9.12" height="7.78" rx="2" fill="#F59E0B"><title>20 Sep: 458M, $515</title></rect>
+<rect x="45.44" y="256.36" width="9.12" height="3.64" rx="2" fill="#F59E0B"><title>21 Sep: 215M, $207</title></rect>
+<rect x="57.44" y="253.65" width="9.12" height="6.35" rx="2" fill="#F59E0B"><title>22 Sep: 374M, $425</title></rect>
 <rect x="69.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>23 Sep: 89.2M, $89.11</title></rect>
 <rect x="81.44" y="255.82" width="9.12" height="4.18" rx="2" fill="#F59E0B"><title>24 Sep: 246M, $242</title></rect>
-<rect x="93.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>25 Sep: 16.7M, $7.99</title></rect>
-<rect x="105.44" y="233.55" width="9.12" height="26.45" rx="2" fill="#F59E0B"><title>26 Sep: 1.6B, $588</title></rect>
-<rect x="117.44" y="221.08" width="9.12" height="38.92" rx="2" fill="#F59E0B"><title>27 Sep: 2.3B, $1,005</title></rect>
-<rect x="129.44" y="197.07" width="9.12" height="62.93" rx="2" fill="#F59E0B"><title>28 Sep: 3.7B, $1,167</title></rect>
-<rect x="141.44" y="218.15" width="9.12" height="41.85" rx="2" fill="#F59E0B"><title>29 Sep: 2.5B, $757</title></rect>
-<rect x="153.44" y="209.12" width="9.12" height="50.88" rx="2" fill="#F59E0B"><title>30 Sep: 3.0B, $1,015</title></rect>
-<rect x="165.44" y="228.89" width="9.12" height="31.11" rx="2" fill="#F59E0B"><title>1 Oct: 1.8B, $647</title></rect>
-<rect x="177.44" y="248.27" width="9.12" height="11.73" rx="2" fill="#F59E0B"><title>2 Oct: 690M, $205</title></rect>
-<rect x="189.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>3 Oct: 29.7M, $17.48</title></rect>
-<rect x="201.44" y="233.93" width="9.12" height="26.07" rx="2" fill="#F59E0B"><title>4 Oct: 1.5B, $512</title></rect>
-<rect x="213.44" y="194.0" width="9.12" height="66.0" rx="2" fill="#F59E0B"><title>5 Oct: 3.9B, $1,477</title></rect>
-<rect x="225.44" y="216.41" width="9.12" height="43.59" rx="2" fill="#F59E0B"><title>6 Oct: 2.6B, $1,026</title></rect>
-<rect x="237.44" y="213.37" width="9.12" height="46.63" rx="2" fill="#F59E0B"><title>7 Oct: 2.7B, $1,340</title></rect>
-<rect x="249.44" y="240.99" width="9.12" height="19.01" rx="2" fill="#F59E0B"><title>8 Oct: 1.1B, $463</title></rect>
-<rect x="261.44" y="239.92" width="9.12" height="20.08" rx="2" fill="#F59E0B"><title>9 Oct: 1.2B, $507</title></rect>
-<rect x="273.44" y="227.69" width="9.12" height="32.31" rx="2" fill="#F59E0B"><title>10 Oct: 1.9B, $754</title></rect>
-<rect x="285.44" y="199.58" width="9.12" height="60.42" rx="2" fill="#F59E0B"><title>11 Oct: 3.6B, $1,231</title></rect>
-<rect x="297.44" y="218.68" width="9.12" height="41.32" rx="2" fill="#F59E0B"><title>12 Oct: 2.4B, $860</title></rect>
-<rect x="309.44" y="239.22" width="9.12" height="20.78" rx="2" fill="#F59E0B"><title>13 Oct: 1.2B, $455</title></rect>
-<rect x="321.44" y="195.97" width="9.12" height="64.03" rx="2" fill="#F59E0B"><title>14 Oct: 3.8B, $1,389</title></rect>
-<rect x="333.44" y="225.18" width="9.12" height="34.82" rx="2" fill="#F59E0B"><title>15 Oct: 2.0B, $670</title></rect>
-<rect x="345.44" y="225.57" width="9.12" height="34.43" rx="2" fill="#F59E0B"><title>16 Oct: 2.0B, $657</title></rect>
-<rect x="357.44" y="225.15" width="9.12" height="34.85" rx="2" fill="#F59E0B"><title>17 Oct: 2.1B, $513</title></rect>
-<rect x="369.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>18 Oct: 71.1M, $26.66</title></rect>
+<rect x="93.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>25 Sep: 16.7M, $9.23</title></rect>
+<rect x="105.44" y="233.58" width="9.12" height="26.42" rx="2" fill="#F59E0B"><title>26 Sep: 1.6B, $630</title></rect>
+<rect x="117.44" y="221.12" width="9.12" height="38.88" rx="2" fill="#F59E0B"><title>27 Sep: 2.3B, $1,042</title></rect>
+<rect x="129.44" y="197.13" width="9.12" height="62.87" rx="2" fill="#F59E0B"><title>28 Sep: 3.7B, $1,273</title></rect>
+<rect x="141.44" y="218.2" width="9.12" height="41.8" rx="2" fill="#F59E0B"><title>29 Sep: 2.5B, $829</title></rect>
+<rect x="153.44" y="209.15" width="9.12" height="50.85" rx="2" fill="#F59E0B"><title>30 Sep: 3.0B, $1,166</title></rect>
+<rect x="165.44" y="228.92" width="9.12" height="31.08" rx="2" fill="#F59E0B"><title>1 Oct: 1.8B, $745</title></rect>
+<rect x="177.44" y="248.29" width="9.12" height="11.71" rx="2" fill="#F59E0B"><title>2 Oct: 690M, $226</title></rect>
+<rect x="189.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>3 Oct: 29.7M, $22.71</title></rect>
+<rect x="201.44" y="233.96" width="9.12" height="26.04" rx="2" fill="#F59E0B"><title>4 Oct: 1.5B, $558</title></rect>
+<rect x="213.44" y="194.0" width="9.12" height="66.0" rx="2" fill="#F59E0B"><title>5 Oct: 3.9B, $1,614</title></rect>
+<rect x="225.44" y="216.41" width="9.12" height="43.59" rx="2" fill="#F59E0B"><title>6 Oct: 2.6B, $1,110</title></rect>
+<rect x="237.44" y="213.37" width="9.12" height="46.63" rx="2" fill="#F59E0B"><title>7 Oct: 2.7B, $1,446</title></rect>
+<rect x="249.44" y="240.96" width="9.12" height="19.04" rx="2" fill="#F59E0B"><title>8 Oct: 1.1B, $565</title></rect>
+<rect x="261.44" y="239.91" width="9.12" height="20.09" rx="2" fill="#F59E0B"><title>9 Oct: 1.2B, $583</title></rect>
+<rect x="273.44" y="227.69" width="9.12" height="32.31" rx="2" fill="#F59E0B"><title>10 Oct: 1.9B, $874</title></rect>
+<rect x="285.44" y="199.37" width="9.12" height="60.63" rx="2" fill="#F59E0B"><title>11 Oct: 3.6B, $1,624</title></rect>
+<rect x="297.44" y="218.55" width="9.12" height="41.45" rx="2" fill="#F59E0B"><title>12 Oct: 2.4B, $1,095</title></rect>
+<rect x="309.44" y="239.17" width="9.12" height="20.83" rx="2" fill="#F59E0B"><title>13 Oct: 1.2B, $572</title></rect>
+<rect x="321.44" y="195.88" width="9.12" height="64.12" rx="2" fill="#F59E0B"><title>14 Oct: 3.8B, $1,625</title></rect>
+<rect x="333.44" y="225.17" width="9.12" height="34.83" rx="2" fill="#F59E0B"><title>15 Oct: 2.1B, $760</title></rect>
+<rect x="345.44" y="225.56" width="9.12" height="34.44" rx="2" fill="#F59E0B"><title>16 Oct: 2.0B, $736</title></rect>
+<rect x="357.44" y="225.12" width="9.12" height="34.88" rx="2" fill="#F59E0B"><title>17 Oct: 2.1B, $590</title></rect>
+<rect x="369.44" y="254.53" width="9.12" height="5.47" rx="2" fill="#F59E0B"><title>18 Oct: 322M, $138</title></rect>
 <line x1="20" y1="260.5" x2="380" y2="260.5" stroke="#2E3D4B" stroke-width="1"/>
 <text x="20" y="284" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">19 Sep</text>
 <text x="380" y="284" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="end">18 Oct</text>
 <text x="20" y="318" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">BY TOOL</text>
 <circle cx="26" cy="341" r="5" fill="#E4715C"/>
 <text x="40" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Claude Code</text>
-<text x="250" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">47.1B</text>
-<text x="380" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$16,583</text>
+<text x="250" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">47.4B</text>
+<text x="380" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$19,127</text>
 <circle cx="26" cy="367" r="5" fill="#4EB586"/>
 <text x="40" y="372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Cursor</text>
 <text x="250" y="372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">2.3B</text>
@@ -59,25 +59,25 @@
 <text x="380" y="398" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$0.01</text>
 <text x="20" y="446" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">TOP MODELS</text>
 <text x="20" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-opus-5-5</text>
-<text x="290" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">45.3B</text>
-<text x="380" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$16,149</text>
+<text x="290" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">45.5B</text>
+<text x="380" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$18,591</text>
 <rect x="20" y="484" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="484" width="330.76" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="484" width="330.16" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-sonnet-5-5</text>
-<text x="290" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">1.5B</text>
-<text x="380" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$284</text>
+<text x="290" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">1.6B</text>
+<text x="380" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$353</text>
 <rect x="20" y="516" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="516" width="10.96" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="516" width="11.6" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">cursor-grok-4.6-xhigh-fast</text>
 <text x="290" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">939M</text>
 <text x="380" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$1,083</text>
 <rect x="20" y="548" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="548" width="6.85" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="548" width="6.81" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="574" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">grok-4.7-xhigh-fast</text>
 <text x="290" y="574" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">443M</text>
 <text x="380" y="574" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$592</text>
 <rect x="20" y="580" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="580" width="3.23" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="580" width="3.21" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="606" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">cursor-grok-4.6-high-fast</text>
 <text x="290" y="606" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">227M</text>
 <text x="380" y="606" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$264</text>
@@ -85,12 +85,12 @@
 <rect x="20" y="612" width="2.0" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="638" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">cursor-auto</text>
 <text x="290" y="638" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">190M</text>
-<text x="380" y="638" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$165</text>
+<text x="380" y="638" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$166</text>
 <rect x="20" y="644" width="360" height="3" rx="1.5" fill="#26323F"/>
 <rect x="20" y="644" width="2.0" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="670" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">other</text>
-<text x="290" y="670" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">708M</text>
-<text x="380" y="670" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$527</text>
+<text x="290" y="670" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">718M</text>
+<text x="380" y="670" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$559</text>
 <rect x="20" y="676" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="676" width="5.17" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="676" width="5.2" height="3" rx="1.5" fill="#9C82E2"/>
 </svg>
