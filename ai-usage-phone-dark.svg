@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 698" width="400" height="698" role="img" aria-label="AI usage over the last 30 days: 50.7B tokens, $21,401 API-equivalent">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 698" width="400" height="698" role="img" aria-label="AI usage over the last 30 days: 51.4B tokens, $21,670 API-equivalent">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1420"/><stop offset="1" stop-color="#141C29"/></linearGradient></defs>
 <rect width="400" height="698" rx="16" fill="url(#bg)"/>
 <rect x="0.75" y="0.75" width="398.5" height="696.5" rx="15.5" fill="none" stroke="#2E3D4B" stroke-width="1.5"/>
 <text x="20" y="38" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">AI USAGE · LAST 30 DAYS</text>
 <text x="20" y="60" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">updated 28 Oct 2026</text>
-<text x="20" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF" text-anchor="start">50.7B</text>
+<text x="20" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF" text-anchor="start">51.4B</text>
 <text x="20" y="134" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">tokens</text>
-<text x="200" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFD166" text-anchor="start">$21,401</text>
+<text x="200" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#FFD166" text-anchor="start">$21,670</text>
 <text x="200" y="134" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">API-equivalent</text>
 <line x1="20" y1="150" x2="380" y2="150" stroke="#2E3D4B" stroke-width="1"/>
 <text x="20" y="178" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">TOKENS PER DAY</text>
@@ -40,15 +40,15 @@
 <rect x="333.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>25 Oct: 75.5M, $30.70</title></rect>
 <rect x="345.44" y="241.9" width="9.12" height="18.1" rx="2" fill="#F59E0B"><title>26 Oct: 1.1B, $414</title></rect>
 <rect x="357.44" y="232.98" width="9.12" height="27.02" rx="2" fill="#F59E0B"><title>27 Oct: 1.6B, $711</title></rect>
-<rect x="369.44" y="258.0" width="9.12" height="2.0" rx="2" fill="#F59E0B"><title>28 Oct: 74.9M, $33.77</title></rect>
+<rect x="369.44" y="248.31" width="9.12" height="11.69" rx="2" fill="#F59E0B"><title>28 Oct: 689M, $303</title></rect>
 <line x1="20" y1="260.5" x2="380" y2="260.5" stroke="#2E3D4B" stroke-width="1"/>
 <text x="20" y="284" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="start">29 Sep</text>
 <text x="380" y="284" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#94A5B4" text-anchor="end">28 Oct</text>
 <text x="20" y="318" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">BY TOOL</text>
 <circle cx="26" cy="341" r="5" fill="#E4715C"/>
 <text x="40" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Claude Code</text>
-<text x="250" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">50.4B</text>
-<text x="380" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$21,105</text>
+<text x="250" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">51.0B</text>
+<text x="380" y="346" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$21,374</text>
 <circle cx="26" cy="367" r="5" fill="#4EB586"/>
 <text x="40" y="372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Cursor</text>
 <text x="250" y="372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">358M</text>
@@ -59,18 +59,18 @@
 <text x="380" y="398" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$0.12</text>
 <text x="20" y="446" font-family="'Courier New', ui-monospace, monospace" font-size="15" font-weight="700" fill="#94A5B4" text-anchor="start" letter-spacing="2">TOP MODELS</text>
 <text x="20" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-opus-5-5</text>
-<text x="290" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">46.2B</text>
-<text x="380" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$20,042</text>
+<text x="290" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">46.7B</text>
+<text x="380" y="478" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$20,279</text>
 <rect x="20" y="484" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="484" width="327.65" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="484" width="327.08" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-sonnet-5-5</text>
-<text x="290" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">3.8B</text>
-<text x="380" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$903</text>
+<text x="290" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">3.9B</text>
+<text x="380" y="510" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$935</text>
 <rect x="20" y="516" width="360" height="3" rx="1.5" fill="#26323F"/>
-<rect x="20" y="516" width="27.06" height="3" rx="1.5" fill="#9C82E2"/>
+<rect x="20" y="516" width="27.66" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-haiku-5-5</text>
-<text x="290" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">216M</text>
-<text x="380" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$7.46</text>
+<text x="290" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="end">220M</text>
+<text x="380" y="542" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFD166" text-anchor="end">$7.57</text>
 <rect x="20" y="548" width="360" height="3" rx="1.5" fill="#26323F"/>
 <rect x="20" y="548" width="2.0" height="3" rx="1.5" fill="#9C82E2"/>
 <text x="20" y="574" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">claude-opus-5-5-medium</text>
