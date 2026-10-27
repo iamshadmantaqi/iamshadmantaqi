@@ -69,10 +69,10 @@ I'm Shadman, a founder from Dhaka. Phoenix Education started in November 2021 as
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-dark.svg">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-light.svg">
+    <source media="(max-width: 1099px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-dark.svg">
+    <source media="(max-width: 1099px)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-phone-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-dark.svg">
-    <img src="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-light.svg" width="100%" alt="AI usage over the last 30 days"/>
+    <img src="https://raw.githubusercontent.com/iamshadmantaqi/iamshadmantaqi/usage-card/ai-usage-light.svg" alt="AI usage: tokens, API-equivalent cost, tools and top models"/>
   </picture>
 </p>
 
